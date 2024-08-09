@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "VENKUUZZ - Developer"
+    email: "venkuzz@eazybank.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 523-5555
+
+

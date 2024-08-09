@@ -1,0 +1,13 @@
+build:
+  version: 2.2
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "VENKUUZZ - Developer"
+    email: "venkuzz@eazybank.com"
+  onCallSupport:
+    - (555) 333-4444
+    - (555) 323-4444
+
+
+
